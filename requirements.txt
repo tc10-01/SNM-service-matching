@@ -1,0 +1,9 @@
+requests 
+beautifulsoup4 
+pandas 
+scrapy 
+selenium 
+webdriver-manager
+TIME-python
+openai
+python-dotenv

@@ -1,0 +1,340 @@
+{
+  "main_service": {
+    "name": "Canadian Centre for Child Protection",
+    "url": "https://211ontario.ca/service/70568694/canadian-centre-for-child-protection-canadian-centre-for-child-protection/?searchLocation=Toronto&topicPath=2&latitude=43.653226&longitude=-79.3831843&sd=25&ss=Distance",
+    "provider_url": "https://missingkids.ca/",
+    "primary_focus": "Child Protection and Missing Children Services",
+    "service_categories": [
+      "Prevention and Education",
+      "Child Protection",
+      "Law Enforcement Collaboration",
+      "Family Support Services",
+      "Public Awareness",
+      "Missing Children Services",
+      "Crisis Intervention",
+      "Child Safety Resources"
+    ]
+  },
+  "core_initiatives": {
+    "How can we help you?": {
+      "url": "https://missingkids.ca/en/how-can-we-help/",
+      "title": "HOW CAN WE HELP YOU?",
+      "description": "MissingKids.ca is here to help families and communities of children who are missing, and families who are worried their child may go missing. In this section, you will find immediate steps to take if a child goes missing, as well as signs that may indicate a child is at risk of going missing and things you can do in a variety of situations to help prevent a child from going missing. You can also contact us at 1-866-KID-TIPS (543-8477) to speak with a specially trained caseworker for additional support and assistance.",
+      "key_services": [
+        "Runaway",
+        "Parental Child Abduction",
+        "Stranger/Non-family Abduction",
+        "Lost Child",
+        "Unknown/Young Adult",
+        "Missing Child Intake Form",
+        "My child is missing",
+        "I’m worried my child may go missing",
+        "Someone I know has a missing child",
+        "Missing Children Database",
+        "Report a Tip or Sighting",
+        "MissingKidsALERT",
+        "Help Spread the Word",
+        "Community Engagement",
+        "AMBER Alert",
+        "Missing Children’s Month",
+        "Be Informed",
+        "Prevention",
+        "Searching Families",
+        "Communities Impacted by a Missing Child",
+        "Child Personal Safety"
+      ],
+      "contact": {
+        "phone": "1-866-543-8477",
+        "email": "",
+        "emergency_contact": ""
+      },
+      "target_audience": [
+        "children",
+        "families"
+      ],
+      "service_type": "support"
+    },
+    "Help us find a missing child": {
+      "url": "https://missingkids.ca/en/help-us-find/",
+      "title": "HELP US FIND A MISSING CHILD",
+      "description": "When a child is missing, a community can make all the difference in the world. Members of the public can play a critical role in helping to bring missing children home. Support the search and help make a difference. Look through our database of nationally registered missing children in Canada. Do you have information about a missing child? All details, big or small, can make a difference.",
+      "key_services": [
+        "Missing Children Database",
+        "Report a Tip or Sighting",
+        "MissingKidsALERT",
+        "Help Spread the Word",
+        "Community Engagement",
+        "AMBER Alert",
+        "Missing Children’s Month",
+        "Missing Child Intake Form",
+        "My child is missing",
+        "I’m worried my child may go missing",
+        "Someone I know has a missing child",
+        "Runaway",
+        "Parental Child Abduction",
+        "Stranger/Non-family Abduction",
+        "Lost Child",
+        "Unknown/Young Adult",
+        "Be Informed",
+        "Prevention",
+        "Searching Families",
+        "Communities Impacted by a Missing Child",
+        "Child Personal Safety"
+      ],
+      "contact": {
+        "phone": "",
+        "email": "",
+        "emergency_contact": ""
+      },
+      "target_audience": [
+        "children",
+        "families"
+      ],
+      "service_type": "support"
+    },
+    "Resources": {
+      "url": "https://missingkids.ca/en/resources/",
+      "title": "RESOURCES",
+      "description": "Information about child personal safety is available on the Canadian Centre for Child Protection website.",
+      "key_services": [
+        "Runaway",
+        "Parental Child Abduction",
+        "Stranger/Non-family Abduction",
+        "Lost Child",
+        "Unknown/Young Adult Cases",
+        "Missing Children Statistics",
+        "Prevention",
+        "Searching Families",
+        "Communities Impacted by a Missing Child",
+        "Child Personal Safety",
+        "Unknown/Young Adult",
+        "Missing Child Intake Form",
+        "My child is missing",
+        "I’m worried my child may go missing",
+        "Someone I know has a missing child",
+        "Missing Children Database",
+        "Report a Tip or Sighting",
+        "MissingKidsALERT",
+        "Help Spread the Word",
+        "Community Engagement",
+        "AMBER Alert",
+        "Missing Children’s Month",
+        "Be Informed"
+      ],
+      "contact": {
+        "phone": "",
+        "email": "",
+        "emergency_contact": ""
+      },
+      "target_audience": [
+        "children",
+        "families",
+        "parents"
+      ],
+      "service_type": "support"
+    },
+    "About": {
+      "url": "https://missingkids.ca/en/about/",
+      "title": "About MissingKids.ca",
+      "description": "MissingKids.ca is Canada’s missing children resource centre. Owned and operated by the Canadian Centre for Child Protection, MissingKids.ca offers families support in finding their missing child and provides educational materials to help prevent children from going missing. Every year, tens of thousands of reports of missing children are made to police in Canada. MissingKids.ca works closely with police and other stakeholders in the search for these missing children. MissingKids.ca is proud to work in collaboration with Réseau Enfants-Retour to provide missing children services to residents of Quebec. Réseau Enfants-Retour supports MissingKids.ca in offering case management support to Francophone families searching for their missing child.",
+      "key_services": [
+        "Missing Child Intake Form",
+        "My child is missing",
+        "I’m worried my child may go missing",
+        "Someone I know has a missing child",
+        "Runaway",
+        "Parental Child Abduction",
+        "Stranger/Non-family Abduction",
+        "Lost Child",
+        "Unknown/Young Adult",
+        "Missing Children Database",
+        "Report a Tip or Sighting",
+        "MissingKidsALERT",
+        "Help Spread the Word",
+        "Community Engagement",
+        "AMBER Alert",
+        "Missing Children’s Month",
+        "Be Informed",
+        "Prevention",
+        "Searching Families",
+        "Communities Impacted by a Missing Child",
+        "Child Personal Safety"
+      ],
+      "contact": {
+        "phone": "",
+        "email": "",
+        "emergency_contact": ""
+      },
+      "target_audience": [
+        "children",
+        "families",
+        "parents",
+        "youth"
+      ],
+      "service_type": "emergency"
+    },
+    "DONATE NOW": {
+      "url": "https://protectchildren.ca/en/get-involved/donate/",
+      "title": "",
+      "description": "95 cents from every dollar goes towards the delivery of programs and services to help protect children. As a registered charity, we rely on donations from Canadians. Every single donation makes a difference, helping us support Canadian families and offer essential prevention information to reduce child victimization. When you make a donation, you help us deliver:",
+      "key_services": [
+        "Online Training",
+        "Demand Change",
+        "Support for families of missing and exploited children.",
+        "Support for youth in crisis.",
+        "Social Value Report",
+        "Report a Concern",
+        "Contributions to third-party research",
+        "See all research",
+        "Understand and Identify Child Sexual Abuse",
+        "Keeping Kids Safe",
+        "Online Safety",
+        "Taking Action",
+        "News Releases",
+        "Public Awareness",
+        "Tech Harm Timeline",
+        "Cybertip.ca",
+        "MissingKids.ca",
+        "Commit to Kids",
+        "Kids in the Know",
+        "Project Arachnid",
+        "Survivor Advocacy Groups",
+        "International Survivors’ Survey",
+        "Self/Peer Exploitation",
+        "NeedHelpNow.ca",
+        "Teatree Tells",
+        "Billy Brings His Buddies",
+        "Zoe & Molly Online",
+        "Be Smart, Strong & Safe",
+        "ProtectKidsOnline.ca",
+        "Commit to Kids — Keeping Kids Safe in Sport",
+        "Protecting Children in Public Spaces",
+        "How We Can Help",
+        "Learning from Survivors"
+      ],
+      "contact": {
+        "phone": "1-800-532-9135",
+        "email": "",
+        "emergency_contact": "crisis. Educational resources for children on how to stay safe online and offline. Safety information for parents on how they can keep their kids safe from victimization. Training for child-serving organizations on how to provide safer spaces for kids in their community. Donation FAQs Can I fundraise on C3P’s behalf?&nbsp; We encourage all individuals who wish to support our organization financially to do so by donating directly through our website at www.protectchildren.ca or through CanadaHelps.org. Please note that we do not engage in direct marketing (e.g., phone solicitation, door-to-door sales, etc.), nor do we authorize or endorse third party fundraising,* except in very limited circumstances and with established partners. If you are an individual or entity who wishes to organize fundraising events or initiative on our behalf, please understand that as a registered charity we are subject to several tax and other rules that are not conducive to this type of fundraising without a high degree of oversight by our organization. We simply do not have the resources or the staff to responsibly manage these types of events or initiatives if we are to remain focused on our core mission of protecting children and reducing child victimization. We kindly ask that you please refrain from carrying out such events or initiatives, and from using any of our logos, registered trademarks, or other materials to promote your event or initiative unless otherwise authorized by our organization. Please note that if we have not directly endorsed or promoted a third party fundraising event or campaign on our own website or social media channels, you can assume it is not authorized by our organization. * Third party fundraising refers to an event or campaign that is initiated by an individual or entity whereby that individual or entity has indicated that all or some portion of the proceeds will be donated or given to support the Canadian Centre for Child Protection Inc. Will I receive a tax receipt for my donation? We issue tax receipts for one-time donations of $10 or more. When you make a one-time donation online through our website, you will be given the option to download an official tax receipt in PDF format. You will also be sent a copy by email. When you make a monthly donation through CanadaHelps.org, an official tax receipt will be sent to the email address provided. How can I contact the Canadian Centre for Child Protection about a donation? To donate by phone, you can call our toll-free number at 1-800-532-9135"
+      },
+      "target_audience": [
+        "children",
+        "families",
+        "parents",
+        "youth",
+        "survivors"
+      ],
+      "service_type": "emergency"
+    },
+    "En français": {
+      "url": "https://missingkids.ca/fr/",
+      "title": "",
+      "description": "MON ENFANT A DISPARU COMMUNIQUER UNE INFORMATION OU UNE OBSERVATION EnfantsPortésDisparus.ca est un programme du Centre canadien de protection de l’enfance. À titre de centre de ressources canadien sur les disparitions d’enfants, EnfantsPortésDisparus.ca soutient les familles à la recherche d’un enfant disparu et diffuse de l’information sur la prévention des disparitions d’enfants.",
+      "key_services": [
+        "Qu’est-ce qu’on peut faire pour vous?",
+        "Aidez-nous à retrouver un enfant disparu",
+        "Ressources",
+        "Accessibilité",
+        "Disparition d’enfant — Fiche d’ouverture de dossier",
+        "Mon enfant a disparu",
+        "Je crains la disparition de mon enfant",
+        "Je connais quelqu’un dont l’enfant a disparu",
+        "Fugue",
+        "Enlèvement parental",
+        "Enlèvement par un étranger ou enlèvement extrafamilial",
+        "Enfant perdu",
+        "Motifs inconnus et jeunes adultes",
+        "Fichier des enfants disparus",
+        "Signalement d’un fait ou d’une observation",
+        "AlerteEnfantsDisparus",
+        "Passer le mot",
+        "Agir localement",
+        "L’alerte AMBER",
+        "Mois des enfants disparus",
+        "Renseignez-vous",
+        "Prévention",
+        "Familles d’enfants disparus",
+        "Communautés touchées par une disparition d’enfant",
+        "Autoprotection des enfants",
+        "Partenaires"
+      ],
+      "contact": {
+        "phone": "",
+        "email": "",
+        "emergency_contact": ""
+      },
+      "target_audience": [
+        "children"
+      ],
+      "service_type": "support"
+    },
+    "Contact Us": {
+      "url": "https://missingkids.ca/en/about/contact/",
+      "title": "Contact Us",
+      "description": "We appreciate your feedback. Let us know what you think of the website and our material, and how you use our resources and services to better protect children in your community. This form is not meant for reporting information about a missing child. To register a missing child, please contact 1-866-KID-TIPS (543-8477) or use the MissingKids.ca intake form.",
+      "key_services": [
+        "Missing Child Intake Form",
+        "My child is missing",
+        "I’m worried my child may go missing",
+        "Someone I know has a missing child",
+        "Runaway",
+        "Parental Child Abduction",
+        "Stranger/Non-family Abduction",
+        "Lost Child",
+        "Unknown/Young Adult",
+        "Missing Children Database",
+        "Report a Tip or Sighting",
+        "MissingKidsALERT",
+        "Help Spread the Word",
+        "Community Engagement",
+        "AMBER Alert",
+        "Missing Children’s Month",
+        "Be Informed",
+        "Prevention",
+        "Searching Families",
+        "Communities Impacted by a Missing Child",
+        "Child Personal Safety"
+      ],
+      "contact": {
+        "phone": "1-866-543-8477",
+        "email": "",
+        "emergency_contact": "Toll-free: <a href=\"tel:1-866-543-8477"
+      },
+      "target_audience": [
+        "children",
+        "families"
+      ],
+      "service_type": "support"
+    }
+  },
+  "key_urls": [
+    "https://missingkids.ca/en/help-us-find/",
+    "https://protectchildren.ca/en/programs-and-initiatives/self-peer-exploitation/",
+    "https://protectchildren.ca/en/programs-and-initiatives/zoe-and-molly-online/",
+    "https://missingkids.ca/fr/",
+    "https://protectchildren.ca/en/programs-and-initiatives/commit-to-kids/",
+    "https://protectchildren.ca/en/programs-and-initiatives/survivor-advocacy-groups/",
+    "https://missingkids.ca/en/about/",
+    "https://protectchildren.ca/en/programs-and-initiatives/public-spaces/",
+    "https://missingkids.ca/en/about/contact/",
+    "https://protectchildren.ca/en/get-involved/donate/",
+    "https://protectchildren.ca/en/programs-and-initiatives/billy-brings-his-buddies/",
+    "https://protectchildren.ca/en/programs-and-initiatives/cybertip/",
+    "https://protectchildren.ca/en/programs-and-initiatives/protectkidsonline/",
+    "https://protectchildren.ca/en/programs-and-initiatives/teatree-tells/",
+    "https://protectchildren.ca/en/programs-and-initiatives/",
+    "https://protectchildren.ca/en/programs-and-initiatives/missingkids/",
+    "https://protectchildren.ca/en/programs-and-initiatives/needhelpnow/",
+    "https://protectchildren.ca/en/programs-and-initiatives/smart-strong-safe/",
+    "https://missingkids.ca/en/resources/",
+    "https://protectchildren.ca/en/programs-and-initiatives/kids-in-the-know/",
+    "https://protectchildren.ca/en/programs-and-initiatives/commit-to-kids-children-in-sport/",
+    "https://protectchildren.ca/en/programs-and-initiatives/survivors-survey/",
+    "https://missingkids.ca/en/how-can-we-help/",
+    "https://protectchildren.ca/en/programs-and-initiatives/project-arachnid/"
+  ],
+  "service_areas": [
+    "Canada",
+    "Quebec"
+  ]
+}
